@@ -1,9 +1,11 @@
 {% include '_layouts/_header.liquid' %}
-<div>
-  {% if is_post %}
-    {% include '_layouts/post.liquid' %}
-  {% else %}
+
+{% if is_post %}
+  {% include '_layouts/post.liquid' %}
+{% else %}
+  <div class="container">
     {{ content }}
-  {% endif %}
-</div>
+  </div>
+{% endif %}
+
 {% include '_layouts/_footer.liquid' %}

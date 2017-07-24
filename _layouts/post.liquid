@@ -1,6 +1,22 @@
-<div>
-  <h2>{{ title }}</h2>
-  <p>
-    {{content}}
-  </p>
+<div class="container-fluid outerbox no-gutters">
+	<div class="row no-gutters">
+		<div class="col-sm-9">
+			<div class="header-image" style="background-image: url({{image}})"></div>
+
+			<div class="header-title">
+				<h1>{{ title }}</h1>
+			</div>
+
+			<div class="row">
+				<div class="col-sm-10 offset-1">
+				    {{content}}
+				</div>
+			</div>
+		</div>
+			<div class="col-sm-3 sidebar">
+				<div class="header-title">
+					<h3>Sideblock</h3>
+				</div>
+		</div>
+	</div>
 </div>
