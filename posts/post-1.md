@@ -1,8 +1,19 @@
 extends: default.liquid
 path: /vw-betrueger-kartell/
-title: Autobetrügerkartell
+title: "Autobetrügerkartell: die Deutsche Autoindustrie führt uns an der Nase rum — und CDU, CSU & SPD nehmen ihr Geld an!"
 date: 24 July 2017 21:00:30 -0500
 image: '/content/car.jpg'
+
+cleverreach_id: 146177-156093
+
+recipient: "CDU/CSU & SPD"
+demand: "Gebt die Parteispenden der deutschen Automobil-Industrie zurück und distanziert euch von deren Kartellgebaren"
+
+currently: 90
+total: 100
+percent: 90
+
+
 ---
 
 Brexit puts UK food standards at risk.

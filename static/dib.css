@@ -41,11 +41,20 @@ h1, h2, h3, h4, h5, h6 {
   height: 0;
   z-index: 2;
   overflow: visible;
+  background: linear-gradient(to bottom, black, transparent);
 }
 
-.dib-nav .row {
+.dib-nav img {
   margin-top: 0.375rem;
+  width: 100%;
 }
+
+.footer {
+  background: #21466b;
+  color: white;
+  padding: 2rem 2rem 1rem 2rem;
+}
+
 
 /*
 
@@ -60,17 +69,75 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-title {
-  background: linear-gradient(to right, #21466b 0%,#263d82 30%,#263d82 30%,#eb5c4a 100%);
+  /*background: linear-gradient(to right, #21466b 0%,#263d82 30%,#263d82 30%,#eb5c4a 100%);*/
+  background: #21466b;
   color: white;
-  padding: .5rem 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.inner {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .sidebar {
+  background: rgb(236, 236, 236); /*  Just so we can surely see this.   */
   position: fixed;
   right: 0;
   top: 0;
   padding: 0;
   bottom: 0;
-  background: wheat;
   z-index: 3;
+}
+.sidebar  > * {
+  padding: 1rem;
+}
+
+.sidebar .title {
+  background: #eb5c4a;
+  color: white;
+  margin-bottom: 0;
+}
+
+.recipient {
+  background: #dbdbdb;
+}
+
+.progress {
+  border: 1px solid #eb5c4a;
+}
+
+.progress-bar {
+  background: #eb5c4a;
+  color: white;
+}
+
+.demand {
+    margin: 0.75rem 0;
+}
+
+
+
+/* SIGN FORM */
+
+.sign-form {
+  font-size: 1.25rem;
+}
+
+.sign-form .row {
+  margin-bottom: 0.375rem;
+}
+
+
+.sign-form button {
+  border-radius: 0;
+  font-size: 1.65rem;
+  line-height: 3.25rem;
+  background: #eb5c4a;
+  color: white;
+}
+
+.currently {
+  text-transform: uppercase;
 }
