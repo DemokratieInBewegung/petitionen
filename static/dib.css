@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   background: linear-gradient(to right, #21466b 0%,#263d82 30%,#263d82 30%,#eb5c4a 100%);
   height: 0.375rem;
   display: block;
-  width: 100%;
+  width: 100vw;
   content: " ";
 }
 
@@ -82,14 +82,46 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar {
-  background: rgb(236, 236, 236); /*  Just so we can surely see this.   */
+  background: rgb(236, 236, 236); 
   position: fixed;
   right: 0;
   top: 0;
   padding: 0;
   bottom: 0;
   z-index: 3;
+  overflow: scroll;
+  transition: 1s top;
 }
+
+
+@media (max-width: 767px) {
+
+  .sidebar {
+    top: 100vh;
+  }
+
+  footer {
+    margin-bottom: 10rem;
+  }
+}
+
+
+.show-sidebar .sidebar {
+  top: 0;
+}
+
+.toggle-button {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 100;
+}
+
+.show-sidebar .toggle-button {
+  display: none;
+}
+
 .sidebar  > * {
   padding: 1rem;
 }
@@ -102,6 +134,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .recipient {
   background: #dbdbdb;
+}
+
+.counter {
+  background: rgb(236, 236, 236); 
+  padding: 1rem;
 }
 
 .progress {
@@ -117,8 +154,6 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0.75rem 0;
 }
 
-
-
 /* SIGN FORM */
 
 .sign-form {
@@ -130,6 +165,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+.toggle-button button,
 .sign-form button {
   border-radius: 0;
   font-size: 1.65rem;

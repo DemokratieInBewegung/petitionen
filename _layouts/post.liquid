@@ -1,28 +1,42 @@
-<div class="container-fluid outerbox no-gutters">
+<div class="container-fluid no-gutters">
 	<div class="row no-gutters">
-		<div class="col-sm-9">
-      <div class="row dib-nav">
-          <div class="col-sm-2 offset-1">
-              <a href="https://bewegung.jetzt"><img src="/static/img/logo-white.png" alt="DiB Logo" /></a>
-          </div>
-      </div>
-      <header>
-				<div class="header-image" style="background-image: url({{image}})"></div>
+		<div class="col-12 col-md-7 col-xl-9">
+      <header class="row">
+	      <div class="dib-nav">
+	          <div class="col-6 col-sm-4 col-md-2 offset-md-1">
+	              <a href="https://bewegung.jetzt"><img src="/static/img/logo-white.png" alt="DiB Logo" /></a>
+	          </div>
+	      </div>
+				<div class="header-image col-12" style="background-image: url({{image}})"></div>
 
-				<div class="row header-title">
-	          <div class="col-sm-10 offset-1">
+				<div class="header-title col-12">
+	          <div class="col-12 col-m-10 offset-m-1">
 							<h1>{{ title }}</h1>
 						</div>
+				</div>
+				<div class="col-12 counter hidden-md-up">
+					<strong class="currently text-muted">{{currently}} Unterschriften</strong>
+
+					<div class="progress">
+					  <div class="progress-bar" role="progressbar"
+					  		style="width: {{percent}}%" aria-valuenow="percent" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
+					<div class="text-right">
+						<span class="total">noch {{total|minus:currently}} bis {{total}}</span>
+					</div>
 				</div>
 			</header>
 
 			<div class="row">
-				<div class="col-sm-10 offset-1 inner">
+				<div class="col-md-10 offset-md-1 inner">
 				    {{content}}
 				</div>
 			</div>
 		</div>
-			<div class="col-sm-3 sidebar">
+		<div class="col-md-5 col-xl-3 sidebar hidden-sm-down">
+			{% comment %}
+				DON'T SHOW ON SMALL SCREENS
+			{% endcomment %}
 				<h3 class="title">Unterzeichne jetzt!</h3>
 				<div class="recipient">
 					<strong class="name">An: {{recipient}}</strong>
@@ -62,12 +76,48 @@
 					</form>
 				</div>
 		</div>
+		<div class="sidebar hidden-md-up">
+			{% comment %}
+				SMALL SCREEN VERSION
+			{% endcomment %}
+				<a onclick="document.body.classList.remove('show-sidebar')" class="close">x</a>
+				<h3 class="title">Unterzeichne jetzt!</h3>
+				<div class="recipient">
+					<strong class="name">An: {{recipient}}</strong>
+					<p class="demand">{{demand}}</p>
+				</div>
+				<div class="sign-form">
+
+					<form action="https://eu2.cleverreach.com/f/{{cleverreach_id}}/wcs/" method="post">
+						<div class="container">
+							<div class="row">
+								<input class="col-6" name="1157321" required placeholder="Vorname" type="text" value=""  />
+								<input class="col-6" name="1157322" required placeholder="Nachname" type="text" value=""  />
+							</div>
+							<div class="row">
+								<input class="col-4" name="1157299" required placeholder="PLZ" type="text"  value=""  />
+								<input class="col-8" name="1157323" required placeholder="Stadt" type="text"  value=""  />
+							</div>
+							<div class="row">
+								<input class="col-12" name="email" required placeholder="E-Mail" type="email"  value=""  />
+							</div>
+							<div class="row">
+								<button class="col-12 btn" type="submit">Unterzeichnen</button>
+						</div>
+						</div>
+					</form>
+				</div>
+		</div>
 	</div>
 
-	<div class="row no-gutters">
-		<div class="col-sm-9 footer">
+	<div class="toggle-button hidden-md-up row">
+		<button onclick="document.body.classList.add('show-sidebar')" class="col-12 btn">Unterzeichnen</button>
+	</div>
+
+	<div class="row">
+		<div class="col-12 col-md-9 footer">
 			<div class="row">
-				<div class="col-sm-10 offset-1">
+				<div class="col-md-10 offset-md-1">
 		  		{% include '_layouts/_footer.liquid' %}
 		  	</div>
   		</div>
