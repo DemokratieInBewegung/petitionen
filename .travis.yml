@@ -19,7 +19,7 @@ before_deploy:
 
 deploy:
 - provider: script
-  script: scp -R build/* root@petition.bewegung.jetzt:/var/dib/petitionen/build/ && ssh root@petition.bewegung.jetzt "chown -r www-data:www-data /var/dib/petitionen/build/"
+  script: scp -r build/* root@petition.bewegung.jetzt:/var/dib/petitionen/build/ && ssh root@petition.bewegung.jetzt "chown -r www-data:www-data /var/dib/petitionen/build/"
   on:
     branch: master
     condition: "$TRAVIS_PULL_REQUEST = false"
