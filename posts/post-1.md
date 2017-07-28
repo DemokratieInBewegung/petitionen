@@ -11,9 +11,20 @@ cleverreach_id: 146177-156093
 recipient: "CDU/CSU, SPD und FDP"
 demand: "Zahlen Sie alle Spenden von BMW, Porsche, VW, Daimler und Audi zurück!"
 
-social_share_text: "Kartell-Vorwurf gegen deutsche Autohersteller – Politik muss jetzt handeln! Unterschreibe jetzt unter "
-twitter_tags: "#autokartell @brauchtbewegung #dieselgate"
+social_share_text: "Parteien müssen Spenden an das Auto-Kartell zurückzahlen, sonst gibt es keine Aufklärung. Demokratie @brauchtbewegung "
+twitter_tags: "#autokartell #dieselgate"
 email_subject: "Jetzt unterschreiben: Kartell-Vorwurf gegen deutsche Autohersteller – Politik muss jetzt handeln!"
+email_body: "Hallo, 
+
+die deutsche Autoindustrie steht unter Kartellverdacht. VW, Audi, Porsche, BMW und Daimler sollen jahrelang geheime Absprachen über Technik, Kosten und Zulieferer getroffen haben. Das ist ein Skandal, der sofort aufgeklärt werden muss. 
+
+Das Problem: die Autokonzerne zahlen auch gleichzeitig für den Wahlkampf der großen Parteien. CDU/CSU, SPD und FDP - sie alle hängen am Tropf der Autoindustrie. So kann es keine wirkliche Aufklärung der Politik geben. Ich fordere deshalb, dass die Parteien ihre Spenden an die Autokonzerne zurückzahlen sollen. 
+
+Hier kannst auch du unterzeichnen: https://petition.bewegung.jetzt/autokartell/?pk_campaign=email
+
+Die Petition wurde gestartet von der neuen Partei DEMOKRATIE IN BEWEGUNG (DiB). Sie nehmen keine Spenden von Konzernen und setzen sich dafür ein, dass auch andere Parteien nicht länger käuflich sind. 
+
+Danke!"
 
 currently: 5
 total: 10
@@ -22,14 +33,17 @@ percent: 50
 
 ---
 
-**Viele prominente Politiker/innen haben Nebenjobs**. Zum Beispiel als Aufsichtsratsmitglied bei VW, Daimler und Co. Gleichzeitig lassen sich die **großen Parteien ihren Wahlkampf von der Autoindustrie finanzieren** – es flossen allein in diesem Jahr Spenden im sechsstelligen Bereich. Und jetzt haben wir den Interessenkonflikt. 
 
-Laut einem Bericht im Spiegel gab es **illegale Absprachen zwischen den größten deutschen Autoherstellern**. Sollten sich die Vorwürfe als richtig erweisen, wäre das ein riesiger Betrug an den Kund/innen und hätte katastrophale Folgen für die deutsche Wirtschaft und unsere Umwelt. Denn die geheimen Absprachen haben womöglich auch den Weg für den Dieselskandal geebnet. 
+Laut einem Bericht im Spiegel gab es **illegale Absprachen zwischen den größten deutschen Autoherstellern**. Sollten sich die Vorwürfe als richtig erweisen, wäre das ein riesiger Betrug.
 
-Eine unabhängige Untersuchung der Kartellvorwürfe kann nur stattfinden, wenn die deutschen Volksparteien nicht mitten im Wahlkampf an der Nadel der Autokonzerne hängen. 
+Zur gleichen Zeit lassen sich die **großen Parteien ihren Wahlkampf von der Autoindustrie finanzieren** – es flossen allein in diesem Jahr Spenden im sechsstelligen Bereich. 
+
+Und jetzt haben wir den Interessenkonflikt. 
+
+Eine unabhängige Untersuchung der Kartellvorwürfe kann nur stattfinden, wenn die deutschen Volksparteien nicht mitten im Wahlkampf am Tropf der Autokonzerne hängen. 
 
 **Deswegen fordern wir SPD, FDP, CDU und CSU auf, alle Parteispenden der Autokonzerne zurückzuzahlen und keine weiteren mehr anzunehmen**. Nur so kann die Unabhängigkeit der Politik gewährleistet werden. 
 
+Das Auto-Kartell ist nicht nur ein Betrug an den Kund/innen - es hätte auch katastrophale Folgen für die deutsche Wirtschaft und unsere Umwelt. Denn die geheimen Absprachen haben womöglich auch den Weg für den Dieselskandal geebnet. 
+
 Genau aus dem Grund nimmt DEMOKRATIE IN BEWEGUNG keine Spenden von Konzernen an. Das sichert unsere Unabhängigkeit. Nur so kann das verlorene Vertrauen in die Politik wiedergewonnen werden. Wir arbeiten an einer Gesetzesinitiative, die allen Parteien die Annahme von Unternehmensspenden untersagt.
-
-
