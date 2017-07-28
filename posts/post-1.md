@@ -28,6 +28,4 @@ Eine unabhängige Untersuchung der Kartellvorwürfe kann nur stattfinden, wenn d
 
 Genau aus dem Grund nimmt DEMOKRATIE IN BEWEGUNG keine Spenden von Konzernen an. Das sichert unsere Unabhängigkeit. Nur so kann das verlorene Vertrauen in die Politik wiedergewonnen werden. Wir arbeiten an einer Gesetzesinitiative, die allen Parteien die Annahme von Unternehmensspenden untersagt.
 
-<small>[test](https://bwegun.adasdf)</small>
-
 
