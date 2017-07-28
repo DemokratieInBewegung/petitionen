@@ -188,11 +188,13 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
 <script type="text/javascript">
+$(function(){
   let $hash = $(document.location.hash.slice());
   if ($hash.length){
     console.log($hash);
     $hash.modal({open: true});
   }
+});
 </script>
 
 {% include '_layouts/_end.liquid' %}
