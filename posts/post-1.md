@@ -2,7 +2,7 @@ extends: petition.liquid
 path: /autokartell/
 title: "Kartell-Vorwurf gegen deutsche Autohersteller – Politik muss jetzt handeln!"
 date: 24 July 2017 21:00:30 -0500
-image: '/content/car.jpg'
+image: '/content/woman-with-mask.jpg'
 meta_description: "An CDU/CSU, SPD und FDP: Zahlen Sie alle Spenden von BMW, Porsche, VW, Daimler und Audi zurück!"
 meta_keywords: "Autokartell, CDU, CSU, SPD, FDP, Petition, Spenden, BMW, Porsche, VW, Volkswagen, Daimler, Audi"
 
