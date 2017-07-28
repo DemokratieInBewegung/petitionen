@@ -189,3 +189,9 @@ footer a:hover {
 .currently {
   text-transform: uppercase;
 }
+
+.disclaimer {
+  padding-top: 1rem;
+  font-size: 0.75rem;
+  color: #888;
+}

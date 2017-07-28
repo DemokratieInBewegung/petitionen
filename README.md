@@ -7,7 +7,7 @@ Static Pages Petitionen "plattform" von Demokratie in Bewegung
 
  - [x] Datenschutz
  - [x] Impressum
- - [ ] Disclaimer unter Button
+ - [x] Disclaimer unter Button
  - [x] Fix mobile Design
  - [ ] PiwiK integration
     - [ ] conversion tracking
