@@ -11,7 +11,7 @@ cleverreach_id: 146177-156093
 recipient: "CDU/CSU, SPD und FDP"
 demand: "Zahlen Sie alle Spenden von BMW, Porsche, VW, Daimler und Audi zurück!"
 
-social_share_text: "Parteien müssen Spenden an das Auto-Kartell zurückzahlen, sonst gibt es keine Aufklärung. Demokratie @brauchtbewegung "
+social_share_text: "Parteien müssen Spenden an das Auto-Kartell zurückzahlen! Demokratie @brauchtbewegung"
 twitter_tags: "#autokartell #dieselgate"
 email_subject: "Jetzt unterschreiben: Kartell-Vorwurf gegen deutsche Autohersteller – Politik muss jetzt handeln!"
 email_body: "Hallo, 
