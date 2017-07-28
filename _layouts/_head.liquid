@@ -3,26 +3,26 @@
 
 <head>
     <meta charset="utf-8">
-    <title>{{site.title}}</title>
+    <title>{{title}} – DEMOKRATIE IN BEWEGUNG</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{site.meta.description}}">
-    <meta name="keywords" content="{{site.meta.keywords}}">
+    <meta name="description" content="{{meta_description}}">
+    <meta name="keywords" content="{{meta_keywords}}">
     <meta name="author" content="">
     
     <!--  Essential META Tags -->
     <!-- https://css-tricks.com/essential-meta-tags-social-media/ -->
     
-    <meta property="og:title" content="DEMOKRATIE IN BEWEGUNG - Abstimmungsplattform der Beweger/innen">
-    <meta property="og:description" content="Hier stimmen die Beweger/innen über Initiativen ab, die die Partei DiB vertreten wird">
+    <meta property="og:title" content="{{title}}">
+    <meta property="og:description" content="{{description}}">
     <meta property="og:url" content="https://petitionen.bewegung.jetzt/">
     
-    <meta property="og:image" content="https://petitionen.bewegung.jetzt/static/img/dib-logo-social.jpg">
+    <meta property="og:image" content="https://petitionen.bewegung.jetzt{{image|default:'/static/img/dib-logo-social.jpg'}}">
     <meta name="twitter:card" content="summary_large_image">
 
     <!--  Non-Essential, But Recommended -->
 
     <meta property="og:site_name" content="DEMOKRATIE IN BEWEGUNG">
-    <meta name="twitter:image:alt" content="DiB Abstimmungsplattform">
+    <meta name="twitter:image:alt" content="{{title}}">
 
     <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700|Rubik:400,400i,500,500i,700" rel="stylesheet">
     <link href="/static/bootstrap.min.css" rel="stylesheet" type="text/css">

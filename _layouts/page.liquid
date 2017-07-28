@@ -1,0 +1,24 @@
+{% include '_layouts/_head.liquid' %}
+
+<div class="dib-bar"></div>
+<div class="container">
+    <div class="row">
+      <div class="col-6 col-sm-4 col-md-2">
+          <a href="https://bewegung.jetzt"><img src="/static/img/dib_logo.svg" alt="DiB Logo" /></a>
+      </div>
+	</div>
+	<div class="row">
+		<div class="col-12 col-md-9">
+			{{content}}
+		</div>
+	</div>
+</div>
+<div class="container-fluid">
+	<div class="row footer">
+		<div class="col-md-10 offset-md-1">
+	  		{% include '_layouts/_footer.liquid' %}
+	  	</div>
+	</div>
+</div>
+
+{% include '_layouts/_end.liquid' %}
