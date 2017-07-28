@@ -8,7 +8,7 @@ meta_keywords: "Autokartell, CDU, CSU, SPD, FDP, Grüne, B̈́ündnis 90, Petition
 
 cleverreach_id: 146177-156093
 
-recipient: "CDU/CSU, SPD, FDP und Bündniss 90/Die Grünen"
+recipient: "CDU/CSU, SPD, FDP und Bündnis 90/Die Grünen"
 demand: "Zahlen Sie alle Spenden von BMW, Porsche, VW, Daimler und Audi zurück!"
 
 social_share_text: "Parteien müssen Spenden an das Auto-Kartell zurückzahlen! Demokratie @brauchtbewegung"
@@ -18,7 +18,7 @@ email_body: "Hallo,
 
 die deutsche Autoindustrie steht unter Kartellverdacht. VW, Audi, Porsche, BMW und Daimler sollen jahrelang geheime Absprachen über Technik, Kosten und Zulieferer getroffen haben. Das ist ein Skandal, der sofort aufgeklärt werden muss. 
 
-Das Problem: die Autokonzerne zahlen auch gleichzeitig für den Wahlkampf der großen Parteien. CDU/CSU, SPD und FDP - sie alle hängen am Tropf der Autoindustrie. So kann es keine wirkliche Aufklärung der Politik geben. Ich fordere deshalb, dass die Parteien ihre Spenden an die Autokonzerne zurückzahlen sollen. 
+Das Problem: die Autokonzerne zahlen auch gleichzeitig für den Wahlkampf der großen Parteien. CDU/CSU, SPD, FDP und Bündnis 90/Die Grünen - sie alle hängen am Tropf der Autoindustrie. So kann es keine wirkliche Aufklärung der Politik geben. Ich fordere deshalb, dass die Parteien ihre Spenden an die Autokonzerne zurückzahlen sollen. 
 
 Hier kannst auch du unterzeichnen: https://petition.bewegung.jetzt/autokartell/?pk_campaign=email
 
