@@ -11,6 +11,10 @@ cleverreach_id: 146177-156093
 recipient: "CDU/CSU, SPD und FDP"
 demand: "Zahlen Sie alle Spenden von BMW, Porsche, VW, Daimler und Audi zurück!"
 
+social_share_text: "Kartell-Vorwurf gegen deutsche Autohersteller – Politik muss jetzt handeln! Unterschreibe jetzt unter "
+twitter_tags: "#autokartell @brauchtbewegung #dieselgate"
+email_subject: "Jetzt unterschreiben: Kartell-Vorwurf gegen deutsche Autohersteller – Politik muss jetzt handeln!"
+
 currently: 5
 total: 10
 percent: 50
