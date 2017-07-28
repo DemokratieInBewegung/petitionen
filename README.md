@@ -15,5 +15,7 @@ Static Pages Petitionen "plattform" von Demokratie in Bewegung
 
 ### Nice To have todos:
 
+ - [x] favicon 
  - [ ] automatisches Update von Zahlen aus CReach
+
 
