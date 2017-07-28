@@ -138,4 +138,61 @@
   </div>
 </div>
 
+<div id="thanks" class="modal fade">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+    {% comment %}  <div class="modal-header">
+        <h5 class="modal-title">Verbreite die Petition</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>{% endcomment %}
+      <div class="modal-body">
+        <p>
+          Danke ❤ für deine Unterschrift! Wir haben Dir von <em>hallo@bewegung.jetzt</em> eine E-Mail geschickt, vergiss nicht diese zu bestätigen!
+        </p>
+        <h3>Verbreite die Petition</h3>
+        <p style="padding: 1rem;" class="text-center">
+          {% include '_layouts/_share.liquid' %}
+        </p>
+      </div>
+    </div>
+    <div class="dib-bar"></div>
+  </div>
+</div>
+
+<div id="welcome" class="modal fade">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+    {% comment %}  <div class="modal-header">
+        <h5 class="modal-title">Verbreite die Petition</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>{% endcomment %}
+      <div class="modal-body">
+        <p>
+          Super, deine E-Mail ist jetzt bestätigt!
+        </p>
+        <h3>Verbreite die Petition</h3>
+        <p style="padding: 1rem;" class="text-center">
+          {% include '_layouts/_share.liquid' %}
+        </p>
+      </div>
+    </div>
+    <div class="dib-bar"></div>
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+  let $hash = $(document.location.hash.slice());
+  if ($hash.length){
+    console.log($hash);
+    $hash.modal({open: true});
+  }
+</script>
+
 {% include '_layouts/_end.liquid' %}

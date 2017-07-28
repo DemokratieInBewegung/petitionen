@@ -11,7 +11,7 @@ Static Pages Petitionen "plattform" von Demokratie in Bewegung
  - [x] Fix mobile Design
  - [x] PiwiK integration
     - [x] conversion tracking
- - [ ] Danke und Reshare modal.
+ - [x] Danke und Reshare modal.
 
 ### Nice To have todos:
 

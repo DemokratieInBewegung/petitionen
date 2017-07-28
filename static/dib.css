@@ -67,6 +67,22 @@ footer a:hover {
   color: #eb5c4a;
 }
 
+.icon svg {
+  height: 2rem;
+  margin: 0;
+  width: 2rem;
+  margin: 0 0.5rem;
+}
+
+a .icon svg path,
+a:visited .icon svg path {
+  fill: #eb5c4a;
+}
+
+a:hover .icon svg path {
+  fill: #21466b;
+}
+
 
 /*
 
