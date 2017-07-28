@@ -1,8 +1,10 @@
-extends: default.liquid
+extends: petition.liquid
 path: /autokartell/
 title: "Kartell-Vorwurf gegen deutsche Autohersteller – Politik muss jetzt handeln!"
 date: 24 July 2017 21:00:30 -0500
 image: '/content/car.jpg'
+meta_description: "An CDU/CSU, SPD und FDP: Zahlen Sie alle Spenden von BMW, Porsche, VW, Daimler und Audi zurück!"
+meta_keywords: "Autokartell, CDU, CSU, SPD, FDP, Petition, Spenden, BMW, Porsche, VW, Volkswagen, Daimler, Audi"
 
 cleverreach_id: 146177-156093
 
@@ -25,5 +27,7 @@ Eine unabhängige Untersuchung der Kartellvorwürfe kann nur stattfinden, wenn d
 **Deswegen fordern wir SPD, FDP, CDU und CSU auf, alle Parteispenden der Autokonzerne zurückzuzahlen und keine weiteren mehr anzunehmen**. Nur so kann die Unabhängigkeit der Politik gewährleistet werden. 
 
 Genau aus dem Grund nimmt DEMOKRATIE IN BEWEGUNG keine Spenden von Konzernen an. Das sichert unsere Unabhängigkeit. Nur so kann das verlorene Vertrauen in die Politik wiedergewonnen werden. Wir arbeiten an einer Gesetzesinitiative, die allen Parteien die Annahme von Unternehmensspenden untersagt.
+
+<small>[test](https://bwegun.adasdf)</small>
 
 
