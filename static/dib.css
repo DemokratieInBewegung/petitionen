@@ -39,11 +39,12 @@ h1, h2, h3, h4, h5, h6 {
   height: 0;
   z-index: 2;
   overflow: visible;
-  background: linear-gradient(to bottom, black, transparent);
+  margin-top: -1px;
+
 }
 
 .dib-nav img {
-  margin-top: 0.375rem;
+  margin-top: 0.5rem;
   width: 100%;
 }
 
