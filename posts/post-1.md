@@ -18,17 +18,17 @@ email_body: "Hallo,
 
 die deutsche Autoindustrie steht unter Kartellverdacht. VW, Audi, Porsche, BMW und Daimler sollen jahrelang geheime Absprachen über Technik, Kosten und Zulieferer getroffen haben. Das ist ein Skandal, der sofort aufgeklärt werden muss. 
 
-Das Problem: die Autokonzerne zahlen auch gleichzeitig für den Wahlkampf der großen Parteien. CDU/CSU, SPD, FDP und Bündnis 90/Die Grünen - sie alle hängen am Tropf der Autoindustrie. So kann es keine wirkliche Aufklärung der Politik geben. Ich fordere deshalb, dass die Parteien ihre Spenden an die Autokonzerne zurückzahlen sollen. 
+Das Problem: die Autokonzerne zahlen auch gleichzeitig für den Wahlkampf der großen Parteien. CDU/CSU, SPD, FDP und Bündnis 90/Die Grünen - sie alle hängen am Tropf der Autoindustrie. So kann es keine wirkliche Aufklärung der Politik geben. Ich fordere deshalb, dass die Parteien ihre Spenden an die Autokonzerne zurückzahlen. 
 
-Hier kannst auch du unterzeichnen: https://petition.bewegung.jetzt/autokartell/?pk_campaign=email
+Hier kannst auch Du unterzeichnen: https://petition.bewegung.jetzt/autokartell/?pk_campaign=email
 
-Die Petition wurde gestartet von der neuen Partei DEMOKRATIE IN BEWEGUNG (DiB). Sie nehmen keine Spenden von Konzernen und setzen sich dafür ein, dass auch andere Parteien nicht länger käuflich sind. 
+Die Petition wurde gestartet von der neuen Partei DEMOKRATIE IN BEWEGUNG (DiB). Sie nimmt keine Spenden von Konzernen und setzt sich dafür ein, dass auch andere Parteien nicht länger käuflich sind. 
 
 Danke!"
 
-currently: 0
-total: 10
-percent: 0
+currently: 512
+total: 20000
+percent: 2.5
 
 
 ---
