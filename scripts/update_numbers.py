@@ -36,7 +36,7 @@ for f in os.listdir("posts"):
 	elif count > 20000:
 		total = 30000
 
-	percent = total / count * 100
+	percent = int(total / count * 10) / 10
 
 	replaced = []
 
