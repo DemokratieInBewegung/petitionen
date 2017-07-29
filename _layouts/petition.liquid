@@ -192,11 +192,11 @@
 
 <script type="text/javascript">
 $(function(){
-  let $hash = $(document.location.hash.slice());
+  var $hash = $(document.location.hash.slice());
   if ($hash.length){
     $hash.modal({open: true});
   }
-  let match = document.location.search.match(/pk_campaign=([a-zA-Z_]*)/i);
+  var match = document.location.search.match(/pk_campaign=([a-zA-Z_]*)/i);
   if (match && match.length > 1){
     $('input[name=1181627]').val(match[1]);
   }
