@@ -44,10 +44,12 @@ Zur gleichen Zeit lassen sich die **großen Parteien ihren Wahlkampf von der Aut
 
 Und jetzt haben wir den Interessenkonflikt. 
 
-Eine unabhängige Untersuchung der Kartellvorwürfe kann nur stattfinden, wenn die deutschen Volksparteien nicht mitten im Wahlkampf am Tropf der Autokonzerne hängen. 
+Eine wirkliche Aufarbeitung der Kartellvorwürfe kann nur stattfinden, wenn die deutschen Volksparteien nicht mitten im Wahlkampf am Tropf der Autokonzerne hängen. 
 
 **Deswegen fordern wir SPD, FDP, CDU/CSU und Bündnis 90/Die Grünen auf, alle Parteispenden der Autokonzerne zurückzuzahlen und keine weiteren mehr anzunehmen**. Nur so kann die Unabhängigkeit der Politik gewährleistet werden. 
 
-Das Auto-Kartell ist nicht nur ein Betrug an den Kund/innen - es hätte auch katastrophale Folgen für die deutsche Wirtschaft und unsere Umwelt. Denn die geheimen Absprachen haben womöglich auch den Weg für den Dieselskandal geebnet. 
+Das Auto-Kartell wäre nicht nur ein Betrug an den Kund/innen - es hätte auch katastrophale Folgen für die deutsche Wirtschaft und unsere Umwelt. Denn die geheimen Absprachen haben womöglich auch den Weg für den Dieselskandal geebnet. 
 
-Genau aus dem Grund nimmt DEMOKRATIE IN BEWEGUNG keine Spenden von Konzernen an. Das sichert unsere Unabhängigkeit. Nur so kann das verlorene Vertrauen in die Politik wiedergewonnen werden. Wir arbeiten an einer Gesetzesinitiative, die allen Parteien die Annahme von Unternehmensspenden untersagt.
+Genau aus dem Grund nimmt DEMOKRATIE IN BEWEGUNG keine Spenden von Konzernen an. Das sichert unsere Unabhängigkeit. Wir arbeiten jetzt schon an einer Gesetzesinitiative, die allen Parteien die Annahme von Unternehmensspenden untersagt.
+
+Aber wir können nicht warten, bis wir im Parlament sind. **Wir müssen jetzt handeln, damit dieser Skandal aufgeklärt werden kann**. Die Parteien müssen die Spenden an die Autokonzerne zurückzahlen. 
