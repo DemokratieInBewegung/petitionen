@@ -8,6 +8,7 @@ meta_keywords: "Autokartell, CDU, CSU, SPD, FDP, Grüne, B̈́ündnis 90, Petition
 
 
 cleverreach_id: 146177-156093
+cr_group_id: 1348455
 
 recipient: "CDU/CSU, SPD, FDP und Bündnis 90/Die Grünen"
 demand: "Zahlen Sie alle Spenden von BMW, Porsche, VW, Daimler und Audi zurück!"
