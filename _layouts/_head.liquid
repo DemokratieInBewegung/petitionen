@@ -12,20 +12,33 @@
     <!--  Essential META Tags -->
     <!-- https://css-tricks.com/essential-meta-tags-social-media/ -->
     
-    <meta property="og:title" content="{{title}}">
-    <meta property="og:description" content="{{description}}">
+    <!--  twitter -->
     <meta property="og:site_name" content="DEMOKRATIE IN BEWEGUNG">
     <meta property="og:url" content="https://petition.bewegung.jetzt/{{path|replace: "index.html", ""}}">
     
     <meta property="og:image" content="https://petition.bewegung.jetzt{{image|default:'/static/img/dib-logo-social.jpg'}}">
     
-    <!--  twitter -->
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image:alt" content="{{title}}">
-    <meta name="twitter:text:description" content="{{description}}">
     <meta name="twitter:site" content="@brauchtbewegung">
     <meta name="twitter:image" content="https://petition.bewegung.jetzt{{image|default:'/static/img/dib-logo-social.jpg'}}">
+
+
+    {% if social_title %}
+        <meta property="og:title" content="{{social_title}}">
+        <meta name="twitter:image:alt" content="{{social_title}}">
+    {% else %}
+        <meta property="og:title" content="{{title}}">
+        <meta name="twitter:image:alt" content="{{title}}">
+    {% endif %}
+
+    {% if social_description %}
+        <meta property="og:description" content="{{social_description}}">
+        <meta name="twitter:text:description" content="{{social_description}}">
+    {% else %}
+        <meta property="og:description" content="{{description}}">
+        <meta name="twitter:text:description" content="{{description}}">
+    {% endif %}
 
 
     <link rel="apple-touch-icon" sizes="57x57" href="/static/icon/apple-icon-57x57.png">
