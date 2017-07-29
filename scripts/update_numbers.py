@@ -18,7 +18,7 @@ for f in os.listdir("posts"):
 	print(group_id)
 
 	req = urllib.request.urlopen("https://rest.cleverreach.com/v2/groups.json/{group}/stats?token={token}".format(token=TOKEN, group=group_id))
-	data = json.loads(req.read())
+	data = json.loads(req.read().decode('utf8'))
 
 	print(data)
 
