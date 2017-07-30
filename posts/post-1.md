@@ -31,9 +31,9 @@ Die Petition wurde gestartet von der neuen Partei DEMOKRATIE IN BEWEGUNG (DiB). 
 
 Danke!"
 
-currently: 2559
+currently: 2565
 total: 20000
-percent: 7.8
+percent: 7.7
 
 
 ---
