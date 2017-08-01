@@ -54,3 +54,11 @@ Das Auto-Kartell wäre nicht nur ein Betrug an den Kund/innen - es hätte auch k
 Genau aus dem Grund nimmt DEMOKRATIE IN BEWEGUNG keine Spenden von Konzernen an. Das sichert unsere Unabhängigkeit. Wir arbeiten jetzt schon an einer Gesetzesinitiative, die allen Parteien die Annahme von Unternehmensspenden untersagt.
 
 Aber wir können nicht warten, bis wir im Parlament sind. **Wir müssen jetzt handeln, damit dieser Skandal aufgeklärt werden kann**. Die Parteien müssen die Spenden an die Autokonzerne zurückzahlen. 
+
+<br/>
+<br/>
+----
+<br/>
+**Weitere Informationen**
+
+[Daimler öffnet die Geldbörse für Parteien](http://www.faz.net/aktuell/wirtschaft/unternehmen/spenden-daimler-oeffnet-die-geldboerse-fuer-parteien-14980215.html), FAZ, 21. April 2017
